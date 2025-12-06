@@ -1,0 +1,1 @@
+The project generates photos or short videos of dogs using the API https://random.dog/woof.json. This allows you to retrieve information about the image size and the URL of a specific image of a random dog. I used FastMCP server.
